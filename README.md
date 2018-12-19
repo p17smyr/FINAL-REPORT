@@ -76,7 +76,7 @@
 # Όνομα εργασίας : Εργασία Περιεχομένου
 ### Eκτελέσιμο link : https://p17smyr.github.io/gr/
 ### Link αποθετηρίου : https://github.com/p17smyr/gr
- 
+
 ### A: Τα links των εικόνων
   atari : https://p17smyr.github.io/gr/gallery/atari/
   
@@ -88,15 +88,15 @@
   
   turing_test : https://p17smyr.github.io/gr/gallery/turing_test/
   
- ### Β: Τα links των διαδραστικών παραδειγμάτων
+### Β: Τα links των διαδραστικών παραδειγμάτων
   Button Design: https://p17smyr.github.io/gr/remix/button-design-years/
   
   Timer: https://p17smyr.github.io/gr/remix/timer/
 
 
-# Τελική Αναφορά  
- ### Eκτελέσιμο link : https://p17smyr.github.io/FINAL-REPORT/
- ### Link αποθετηρίου : https://github.com/p17smyr/FINAL-REPORT
+## Τελική Αναφορά  
+### Eκτελέσιμο link : https://p17smyr.github.io/FINAL-REPORT/
+### Link αποθετηρίου : https://github.com/p17smyr/FINAL-REPORT
 
 
 ## Συμπεράσματα
