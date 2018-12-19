@@ -13,9 +13,9 @@
 
 # Όνομα εργασίας : Εργασία Ανάπτυξης 
 
-**[Eκτελέσιμο link](https://p17smyr.github.io/D3js-US-educational-attainment/)
+* [Eκτελέσιμο link](https://p17smyr.github.io/D3js-US-educational-attainment/)
 
-**[Link αποθετηρίου](https://github.com/p17smyr/D3js-US-educational-attainment)
+* [Link αποθετηρίου](https://github.com/p17smyr/D3js-US-educational-attainment)
  
 ### Ζητούμενα - Παραδοτέο 1
  - [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
@@ -75,10 +75,10 @@
 
 
 # Όνομα εργασίας : Εργασία Περιεχομένου
-**[Eκτελέσιμο link](https://p17smyr.github.io/gr/)
+* [Eκτελέσιμο link](https://p17smyr.github.io/gr/)
 
 
-**[Link αποθετηρίου](https://github.com/p17smyr/gr)
+* [Link αποθετηρίου](https://github.com/p17smyr/gr)
 
 ### A: Τα links των εικόνων
 * [atari](https://p17smyr.github.io/gr/gallery/atari/)
@@ -98,10 +98,10 @@
 
 
 ## Τελική Αναφορά  
-**[Eκτελέσιμο link](https://p17smyr.github.io/FINAL-REPORT/)
+* [Eκτελέσιμο link](https://p17smyr.github.io/FINAL-REPORT/)
 
 
-**[Link αποθετηρίου](https://github.com/p17smyr/FINAL-REPORT)
+* [Link αποθετηρίου](https://github.com/p17smyr/FINAL-REPORT)
 
 
 ## Συμπεράσματα
