@@ -2,27 +2,14 @@
 ## Όνομα : Αντωνία Σμυρλιάδη
 ## Αριθμός Μητρώου: Π2017130
 
+## Σύνοψη
 
- # Όνομα εργασίας : Εργασία Περιεχομένου
- ### Eκτελέσιμο link : https://p17smyr.github.io/gr/
- ### Link αποθετηρίου : https://github.com/p17smyr/gr
- 
- ### A: Τα links των εικόνων
-  atari : https://p17smyr.github.io/gr/gallery/atari/
-  
-  multi_tuch : https://p17smyr.github.io/gr/gallery/multi_touch/
-  
-  lego_turing_mashine : https://p17smyr.github.io/gr/gallery/lego_turing_mashine/
-  
-  fingerprint_reader : https://p17smyr.github.io/gr/gallery/fingerprint_reader/
-  
-  turing_test : https://p17smyr.github.io/gr/gallery/turing_test/
-  
-  ### Β: Τα links των διαδραστικών παραδειγμάτων
-  Button Design: https://p17smyr.github.io/gr/remix/button-design-years/
-  
-  Timer: https://p17smyr.github.io/gr/remix/timer/
-  
+Η παρούσα αναφορά πραγματεύεται την υλοποίηση δύο επιμέρους εργασίες που διαθέτουν από δύο παραδοτέα αντίστοιχα στο μάθημα Επικοινωνία Ανθρώπου-Υπολιστή του Γ'εξαμήνου. Παρακάτω αναλύονται τα δεδομένα, τα αποτελέσματα και τα συμπεράσματα αυτών των εργασιών.
+
+##  Σύντομη εισαγωγή
+
+Από τις διαθέσιμες εργασίες που διαθέτει το μάθημα ολοκλήρωσα επιτυχώς και τα δύο παραδοτέα της Εργασίας Περιεχομένου, όλα τα ζητούμενα από το πρώτο παραδοτέο της Εργασίας Ανάπτυξης καθώς επίσης και το πρώτο ζητούμενο από το δεύτερο παραδοτέο. Ακολουθεί η ανάλυση της υλοποίησης των ζητούμενων των παραδοτέων των εργασιών.
+
 
 # Όνομα εργασίας : Εργασία Ανάπτυξης  
  ### Eκτελέσιμο link : https://p17smyr.github.io/D3js-US-educational-attainment/
@@ -85,10 +72,42 @@
 ![ScreenShot](menu.JPG)
 
 
+ # Όνομα εργασίας : Εργασία Περιεχομένου
+ ### Eκτελέσιμο link : https://p17smyr.github.io/gr/
+ ### Link αποθετηρίου : https://github.com/p17smyr/gr
+ 
+ ### A: Τα links των εικόνων
+  atari : https://p17smyr.github.io/gr/gallery/atari/
+  
+  multi_tuch : https://p17smyr.github.io/gr/gallery/multi_touch/
+  
+  lego_turing_mashine : https://p17smyr.github.io/gr/gallery/lego_turing_mashine/
+  
+  fingerprint_reader : https://p17smyr.github.io/gr/gallery/fingerprint_reader/
+  
+  turing_test : https://p17smyr.github.io/gr/gallery/turing_test/
+  
+  ### Β: Τα links των διαδραστικών παραδειγμάτων
+  Button Design: https://p17smyr.github.io/gr/remix/button-design-years/
+  
+  Timer: https://p17smyr.github.io/gr/remix/timer/
+
+
 # Τελική Αναφορά  
  ### Eκτελέσιμο link : https://p17smyr.github.io/FINAL-REPORT/
  ### Link αποθετηρίου : https://github.com/p17smyr/FINAL-REPORT
 
+
+## Συμπεράσματα
+
+Εν κατακλείδι, με το πέρας των παραδοτέων έγινε σαφές ότι το περιβάλλον του Github είναι πολύπλευρο και με πολλές δυνατότητες για νέους αλλά και έμπειρους προγραμματιστές. Είναι απαραίτητη η συνεχόμενη εξάσκηση με τη πλατφόρμα μιας και είναι μεγάλος ο όγκος πληροφοριών που δέχεται ο χρήστης από αυτήν. Μέσα από τη παρούσα εργασία έγινε η γνωριμία με νέες γλώσσες προγραμματισμού όπως η Javascript, η HTML, και η CSS. 
+
+## Αναφορές
+
+* [responsive voice](https://responsivevoice.org/)
+* [Stack Over Flow](https://stackoverflow.com/)
+* [d3 github](https://github.com/d3/d3/wiki/Gallery)
+* [Google Chart](https://developers.google.com/chart/interactive/docs/gallery)
 
 
 
