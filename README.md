@@ -11,11 +11,12 @@
 Από τις διαθέσιμες εργασίες που διαθέτει το μάθημα ολοκλήρωσα επιτυχώς και τα δύο παραδοτέα της Εργασίας Περιεχομένου, όλα τα ζητούμενα από το πρώτο παραδοτέο της Εργασίας Ανάπτυξης καθώς επίσης και το πρώτο ζητούμενο από το δεύτερο παραδοτέο. Ακολουθεί η ανάλυση της υλοποίησης των ζητούμενων των παραδοτέων των εργασιών.
 
 
-# Όνομα εργασίας : Εργασία Ανάπτυξης  
- ### Eκτελέσιμο link : https://p17smyr.github.io/D3js-US-educational-attainment/
- ### Link αποθετηρίου : https://github.com/p17smyr/D3js-US-educational-attainment
+# Όνομα εργασίας : Εργασία Ανάπτυξης 
+
+### Eκτελέσιμο link : https://p17smyr.github.io/D3js-US-educational-attainment/
+### Link αποθετηρίου : https://github.com/p17smyr/D3js-US-educational-attainment
  
- ### Ζητούμενα - Παραδοτέο 1
+### Ζητούμενα - Παραδοτέο 1
  - [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
  - [x] Αντικατέστησα τις διεπαφές στα "κουμπιά" του 2ου και 3ου γραφήματος.
  - [x] Όταν το ποντίκι διέρχεται επάνω από κάθε επιλογή του menu στην κορυφή της σελίδας, ακούγεται κάποιος ήχος.
@@ -72,11 +73,11 @@
 ![ScreenShot](menu.JPG)
 
 
- # Όνομα εργασίας : Εργασία Περιεχομένου
- ### Eκτελέσιμο link : https://p17smyr.github.io/gr/
- ### Link αποθετηρίου : https://github.com/p17smyr/gr
+# Όνομα εργασίας : Εργασία Περιεχομένου
+### Eκτελέσιμο link : https://p17smyr.github.io/gr/
+### Link αποθετηρίου : https://github.com/p17smyr/gr
  
- ### A: Τα links των εικόνων
+### A: Τα links των εικόνων
   atari : https://p17smyr.github.io/gr/gallery/atari/
   
   multi_tuch : https://p17smyr.github.io/gr/gallery/multi_touch/
@@ -87,7 +88,7 @@
   
   turing_test : https://p17smyr.github.io/gr/gallery/turing_test/
   
-  ### Β: Τα links των διαδραστικών παραδειγμάτων
+ ### Β: Τα links των διαδραστικών παραδειγμάτων
   Button Design: https://p17smyr.github.io/gr/remix/button-design-years/
   
   Timer: https://p17smyr.github.io/gr/remix/timer/
