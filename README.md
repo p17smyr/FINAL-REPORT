@@ -13,8 +13,8 @@
 
 # Όνομα εργασίας : Εργασία Ανάπτυξης 
 
-### Eκτελέσιμο link : https://p17smyr.github.io/D3js-US-educational-attainment/
-### Link αποθετηρίου : https://github.com/p17smyr/D3js-US-educational-attainment
+**Eκτελέσιμο link : https://p17smyr.github.io/D3js-US-educational-attainment/** 
+**Link αποθετηρίου : https://github.com/p17smyr/D3js-US-educational-attainment**
  
 ### Ζητούμενα - Παραδοτέο 1
  - [x] Άλλαξα τα χρώματα στα 3 γραφήματα.
@@ -74,29 +74,29 @@
 
 
 # Όνομα εργασίας : Εργασία Περιεχομένου
-### Eκτελέσιμο link : https://p17smyr.github.io/gr/
-### Link αποθετηρίου : https://github.com/p17smyr/gr
+**Eκτελέσιμο link : https://p17smyr.github.io/gr/**
+**Link αποθετηρίου : https://github.com/p17smyr/gr**
 
 ### A: Τα links των εικόνων
-  atari : https://p17smyr.github.io/gr/gallery/atari/
+* atari : https://p17smyr.github.io/gr/gallery/atari/
   
-  multi_tuch : https://p17smyr.github.io/gr/gallery/multi_touch/
+* multi_tuch : https://p17smyr.github.io/gr/gallery/multi_touch/
   
-  lego_turing_mashine : https://p17smyr.github.io/gr/gallery/lego_turing_mashine/
+* lego_turing_mashine : https://p17smyr.github.io/gr/gallery/lego_turing_mashine/
   
-  fingerprint_reader : https://p17smyr.github.io/gr/gallery/fingerprint_reader/
+* fingerprint_reader : https://p17smyr.github.io/gr/gallery/fingerprint_reader/
   
-  turing_test : https://p17smyr.github.io/gr/gallery/turing_test/
+* turing_test : https://p17smyr.github.io/gr/gallery/turing_test/
   
 ### Β: Τα links των διαδραστικών παραδειγμάτων
-  Button Design: https://p17smyr.github.io/gr/remix/button-design-years/
+* Button Design: https://p17smyr.github.io/gr/remix/button-design-years/
   
-  Timer: https://p17smyr.github.io/gr/remix/timer/
+* Timer: https://p17smyr.github.io/gr/remix/timer/
 
 
 ## Τελική Αναφορά  
-### Eκτελέσιμο link : https://p17smyr.github.io/FINAL-REPORT/
-### Link αποθετηρίου : https://github.com/p17smyr/FINAL-REPORT
+**Eκτελέσιμο link : https://p17smyr.github.io/FINAL-REPORT/
+**Link αποθετηρίου : https://github.com/p17smyr/FINAL-REPORT
 
 
 ## Συμπεράσματα
